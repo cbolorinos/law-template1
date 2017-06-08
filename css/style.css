@@ -33304,7 +33304,6 @@ fieldset[disabled] .box-planning-type-4 .btn-default {
     -webkit-align-items: center;
     -ms-flex-align: center;
     align-items: center;
-    text-transform: uppercase;
     -webkit-backface-visibility: hidden;
     backface-visibility: hidden;
   }
@@ -35949,7 +35948,6 @@ fieldset[disabled] .bg-primary .btn-java {
     top: 50%;
     font-size: 56px;
     font-weight: 700;
-    text-transform: uppercase;
     letter-spacing: 0.06em;
   }
   .rd-navbar-sidebar-fixed .rd-navbar-sidebar-fixed-search .form-search .form-label.focus {
@@ -35990,7 +35988,6 @@ fieldset[disabled] .bg-primary .btn-java {
   }
   .rd-navbar-sidebar-fixed .rd-search-results-live .search-quick-result {
     font-size: 17px;
-    text-transform: uppercase;
     letter-spacing: 0.12em;
     position: relative;
     top: 30px;
@@ -36045,7 +36042,6 @@ fieldset[disabled] .bg-primary .btn-java {
   }
   .rd-navbar-sidebar-fixed .rd-search-results-live .search_submit {
     font-size: 14px;
-    text-transform: uppercase;
     padding: 15px;
     border-radius: 3px;
   }
@@ -44484,7 +44480,6 @@ html:not(.lt-ie10) .not-animated {
   .isotope-filters-horizontal:not(.isotope-filter-collapse-lg) .isotope-filters-list > li > a,
   .isotope-filters-vertical:not(.isotope-filter-collapse-lg) .isotope-filters-list > li > a {
     display: inline-block;
-    text-transform: uppercase;
     padding: 0 5px 8px;
     font-size: 16px;
     color: #868686;
@@ -44591,7 +44586,6 @@ html:not(.lt-ie10) .not-animated {
   }
   .isotope-filter-collapse-lg .isotope-filters-list > li > a {
     display: inline-block;
-    text-transform: uppercase;
     padding: 0 5px 8px;
     color: #868686;
     -webkit-transition: 0.3s all ease-in;
@@ -45682,7 +45676,6 @@ a.pswp__share--download:hover {
     font-weight: 900;
     letter-spacing: 0.06em;
     color: #434445;
-    text-transform: uppercase;
     background: #d1d1d1;
     border-top: 1px solid #bdbdbd;
     border-bottom: 1px solid transparent;
