@@ -8084,7 +8084,8 @@ iframe {
   color:#101010;
 }
 .resume li{
-  font-size:10px;
+  font-size:14px;
+  margin: 10px;
 }
 .professional-list{
   padding:0;
@@ -11488,7 +11489,7 @@ mark, .mark {
 
 .page blockquote.quote .text-dark,
 .page .text-dark {
-  color: #868686;
+  color: #000;
 }
 
 .page a.text-dark:hover,
@@ -11754,8 +11755,8 @@ fieldset[disabled] .btn-default {
 .open > .btn-primary.dropdown-toggle:focus,
 .open > .btn-primary.dropdown-toggle.focus {
   color: #fff;
-  background-color: #e41c2a;
-  border-color: #e41c2a;
+  background-color: #567560;
+  border-color: #567560;
 }
 
 .btn-primary.disabled, .btn-primary[disabled],
@@ -11770,14 +11771,14 @@ fieldset[disabled] .btn-primary {
 }
 
 .btn-java {
-  color: #000;
-  background-color: #d1d1d1;
-  border-color: #d1d1d1;
+  color: #fff;
+  background-color: #567560;
+  border-color: #567560;
 }
 
 .btn-java:focus, .btn-java.focus, .btn-java:hover, .btn-java:active, .btn-java.active,
 .open > .btn-java.dropdown-toggle {
-  color: #000;
+  color: #fff;
   background-color: #868686;
   border-color: #3e604a;
 }
@@ -24702,8 +24703,8 @@ a.thumbnail:hover {
 }
 
 .thumbnail-josip .btn-java:hover {
-  background: #d1d1d1;
-  border-color: #d1d1d1;
+  background: #567560;
+  border-color: #567560;
 }
 
 .thumbnail-josip-title, .thumbnail-josip p {
@@ -25838,12 +25839,6 @@ a.icon {
   border: none;
 }
 
-.icon-resume{
-  margin-right: 10px;
-  background-color: none;
-  color:#3e604a;
-}
-
 .icon-darker-filled {
   background: #434445;
 }
@@ -26437,7 +26432,7 @@ button.list-group-item-danger.active:focus {
 }
 
 .breadcrumb-modern .list-inline li a:hover {
-  color: #5e7d9a;
+  color: #eee;
 }
 
 @media (min-width: 992px) {
@@ -28426,12 +28421,14 @@ h1 .label-custom, h2 .label-custom, h3 .label-custom, h4 .label-custom, h5 .labe
 }
 .orangebg-button-sm {
   border:1px solid #fff;
+  background-color: #3e604a;
   color:#fff;
   padding:10px;
 }
 .orangebg-button-sm:hover, .orangebg-button-sm:focus, .orangebg-button-sm:active {
-  border:1px solid #ddd;
-  color:#ddd;
+  border:1px solid #fff;
+  background-color: #567560;
+  color:#fff;
 }
 .orangebg-button {
   border:2px solid #fff;
