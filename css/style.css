@@ -8083,6 +8083,9 @@ iframe {
 .procedures > h5 > a {
   color:#101010;
 }
+.resume li{
+  font-size:10px;
+}
 .professional-list{
   padding:0;
   margin-left:10px;
@@ -25833,6 +25836,12 @@ a.icon {
 .icon-darker-filled, .icon-darkest-filled, .icon-gray-light, .icon-gray-lighter, .icon-white, .icon-shark-filled, .icon-mantis-filled, .icon-pink-filled, .icon-malibu-filled, .icon-carrot-filled, .icon-red-filled, .icon-blue-gray-filled {
   color: #fff;
   border: none;
+}
+
+.icon-resume{
+  margin-right: 10px;
+  background-color: none;
+  color:#3e604a;
 }
 
 .icon-darker-filled {
